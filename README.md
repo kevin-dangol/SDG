@@ -3,7 +3,7 @@ A java project given by my lecturur to calculate Carbon footprint.
 Run the Main.java to start the app.
 
 # REQUIREMENTS
-- JAVA 17 or higher
+- [JAVA](https://www.oracle.com/java/technologies/downloads/) 17 or higher
 - Any code editor or compilor that supports java
 
 # LOGIN CREDS
