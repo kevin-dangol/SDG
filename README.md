@@ -3,10 +3,12 @@ A java project given by my lecturur to calculate Carbon footprint.
 Run the Main.java to start the app.
 
 The login for admins:
+
 user: "admin"
 password: "admin123"
 
 The login for admins:
+
 user: "user"
 password: "password"
 
